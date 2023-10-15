@@ -16,4 +16,8 @@ body{
     height: 10px;
     width: auto;
 }
-
+div.redes{
+   
+	display: inline-block;
+    width: 620px;
+}
