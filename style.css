@@ -1,23 +1,22 @@
+body{
+    background-color: rgba(247, 234, 241, 0.836);
+    height: auto;
+    width: auto;
+    
+}
 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-indent: 30px;
+    font-size: larger;
+}
+#formacao{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
-    padding-left: 50px;
-    margin-top: auto;
+    padding-left: 40px;
+    margin-top: 2px;
     height: 60px;
     line-height: normal;
     width: 100%;
     text-transform: uppercase;
     background-image: linear-gradient(rgb(247, 194, 234), rgba(223, 223, 223, 0.788))
-    
-}
-body{
-    color: rgb(15, 15, 15);
-    background-color: rgb(253, 239, 250);
-    height: 10px;
-    width: auto;
-}
-div.redes{
-   
-	display: inline-block;
-    width: 620px;
 }
